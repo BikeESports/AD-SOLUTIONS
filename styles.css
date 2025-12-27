@@ -130,3 +130,27 @@ footer a {
     font-weight: bold;
     letter-spacing: 1px;
 }
+
+/* PROMOS PRODUCCIÓN MUSICAL */
+.promo-img {
+    width: 100%;
+    border-radius: 12px;
+    margin-bottom: 18px;
+    border: 1px solid #1f1f1f;
+}
+
+.promo-card h3 {
+    margin-top: 10px;
+}
+
+.price {
+    font-weight: bold;
+    margin: 18px 0;
+    color: #ffffff;
+}
+
+.country-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
